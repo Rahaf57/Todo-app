@@ -1,0 +1,29 @@
+.todo{
+   
+    margin-bottom: 4%; 
+    background: #249c96;
+    padding: 20px 30px 25px;
+    text-align: center;
+
+   
+}
+h1{
+   
+
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: aliceblue;
+  
+}
+
+
+.item {
+   
+    background-color: rgb(235, 235, 235);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 15px 8px 0 8px;
+    border: 3px solid  #249c96;
+
+}
+
+    
